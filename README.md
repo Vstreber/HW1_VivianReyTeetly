@@ -18,6 +18,8 @@ Write code to calculate the error rate for each of these predictions (separately
 
 Explain what your error rate indicates about each model. Do you think the model is a good fit? Why or why not? 
 
+
+
 ### Part 2: Simple Linear Regression 
 Use the Auto dataset to complete this part of the assignment. 
 
